@@ -1,0 +1,10 @@
+:root {
+    --branco-principal: white;
+    --roxo-secundaria: purple;
+    --botao-violeta: violet;
+    --cor-de-fundo: black;
+}
+body{
+    background-color: var(--cor-de-fundo);
+    color: var(--branco-principal);
+}
